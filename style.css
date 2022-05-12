@@ -1,0 +1,78 @@
+body{
+	background-color:#FAF3DD;
+}
+
+.beginning h1{
+	color:#9DACFF;
+	display: flex;
+	justify-content: center;
+	font-family:Bebas Neue;
+	font-size:80px;
+}
+
+.yellow {
+	display: flex;
+	justify-content: space-between;
+}
+
+.yellow img{
+	width: 30%;
+	border: solid 5px #FAF3DD;
+}
+
+.abums {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.albums img{
+	width: 30%;
+	border: solid 5px #FAF3DD;
+	margin-top:15%;
+	margin-left: 25px;
+
+}
+
+.albums_text {
+	color:#9DACFF;
+	display: flex;
+	justify-content: space-evenly;
+	font-family:Bebas Neue;
+	font-size:60px;
+}
+
+.tours {
+	color:#FAF3DD;
+	display: flex;
+	justify-content: center;
+}
+
+.tour_info {
+	color:#FAF3DD;
+	display: flex;
+	justify-content: space-evenly;
+	background-color:#FFB8D1 ;
+	padding: 10px;
+}
+
+marquee p {
+	display: inline;
+	margin-right: 50px;
+	font-size: 50px;
+	text-align: center;
+}
+
+.bio p {
+
+	display: flex;
+	font-size: 25px;
+	justify-content: center;
+	background-color:#F5CDA7 ;
+	padding: 10px;
+}
+
+.socials {
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
